@@ -1,4 +1,5 @@
-Generate Random color Using:
+Generate Random color 
+Q)Create a Button,h1,div elements and when you click the button a new color has to be generate and stores that color and value in 'h1' and 'div' tag elements and update by using:
 -HTML
 -CSS
 -Java Script
