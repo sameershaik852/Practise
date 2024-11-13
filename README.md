@@ -1,0 +1,2 @@
+# Practise
+JS practise codes
